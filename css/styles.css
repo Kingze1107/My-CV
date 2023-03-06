@@ -16,6 +16,7 @@ font-family: 'Abhaya Libre', serif;
 
 .resume-header {
     background-color: #FFBFC5;
+	
 }
 
 .resume-main {
@@ -25,6 +26,7 @@ font-family: 'Abhaya Libre', serif;
 
 .resume-aside {
 	background-color: #b3dbd8;
+	color:darkslategray
 }
 
 /* Styles for lists in the document */
