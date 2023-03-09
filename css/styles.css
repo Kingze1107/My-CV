@@ -54,3 +54,9 @@ font-family: 'Abhaya Libre', serif;
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-progress {
+	background-color: antiquewhite!important;
+}
+.language-boarder{
+	border-color:cornflowerblue!important;
+}
